@@ -31,7 +31,7 @@ public class MemberVO implements Serializable{
 	private byte[] icon;
 	private Integer coin;
 	private String rate;
-	private Integer status;
+//	private Integer status;
 	private Timestamp logintime;
 //	private String loc;
 //	private Integer continuedays;
