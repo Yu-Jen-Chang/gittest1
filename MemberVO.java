@@ -36,6 +36,7 @@ public class MemberVO implements Serializable{
 	private Timestamp logintime;
 //	private String loc;
 //	private Integer continuedays;
+	private String room;
 
 	
 	public Integer getMemno() {
