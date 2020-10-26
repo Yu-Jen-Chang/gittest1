@@ -33,7 +33,7 @@ public class MemberVO implements Serializable{
 	private String rate;
 	private Integer status;
 	private Timestamp logintime;
-//	private String loc;
+	private String loc;
 //	private Integer continuedays;
 
 	
