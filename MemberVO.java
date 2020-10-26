@@ -38,6 +38,7 @@ public class MemberVO implements Serializable{
 //	private Integer continuedays;
 	private String room; //roomate
 
+
 	
 	public Integer getMemno() {
 		return memno;
